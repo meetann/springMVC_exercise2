@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="MvcExercise2.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/MvcExercise2_war</output-path>
+    <root id="root">
+      <element id="archive" name="MvcExercise.war" />
+    </root>
+  </artifact>
+</component>
